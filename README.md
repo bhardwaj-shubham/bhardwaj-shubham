@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
 
-<!--
-**bhardwaj-shubham/bhardwaj-shubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer building with JavaScript/TypeScript and Go.
 
-Here are some ideas to get you started:
+Currently exploring systems, distributed systems, and infrastructure through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [Job Application Tracker](https://github.com/bhardwaj-shubham/job-application-tracker)
+
+    A full-stack application for tracking job applications, documents, and resume-to-job-description analysis.
+
+    **JavaScript · TypeScript · Express · React · PostgreSQL · Prisma · Redis · BullMQ · Cloudinary · Gemini API**
+
+- [Jalebi](https://github.com/bhardwaj-shubham/jalebi)
+
+    A Go CLI tool that gives developers a quick overview of a software project.
+    
+    **Go · CLI · Testing · GitHub Actions · GoReleaser**
+
+## Currently Learning
+
+* Go backend development
+* System design and distributed systems
+* Linux and networking
+* Containers and infrastructure
+
+## Technologies
+
+**Primary:** JavaScript · TypeScript · Go
+
+**Also familiar with:** Python · Java
+
+**Backend:** Node.js · Express · Hono
+
+**Databases & Infrastructure:** PostgreSQL · MySQL · Redis · Docker · Podman
+
+**Tools:** Git · GitHub Actions · GoReleaser · GitHub · Neovim
