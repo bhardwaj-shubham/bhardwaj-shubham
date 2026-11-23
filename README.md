@@ -6,24 +6,30 @@ Currently exploring systems, distributed systems, and infrastructure through pra
 
 ## Projects
 
-- [Job Application Tracker](https://github.com/bhardwaj-shubham/job-application-tracker)
+### [Go Job System](https://github.com/bhardwaj-shubham/go-job-system)
 
-    A full-stack application for tracking job applications, documents, and resume-to-job-description analysis.
+A transactional PostgreSQL-backed job processing system in Go, exploring reliable job coordination, concurrent workers, bounded retries, and ambiguous commit recovery.
 
-    **JavaScript · TypeScript · Express · React · PostgreSQL · Prisma · Redis · BullMQ · Cloudinary · Gemini API**
+**Go · PostgreSQL · Concurrency · Transactions · Distributed Systems**
 
-- [Jalebi](https://github.com/bhardwaj-shubham/jalebi)
+### [Jalebi](https://github.com/bhardwaj-shubham/jalebi)
 
-    A Go CLI tool that gives developers a quick overview of a software project.
-    
-    **Go · CLI · Testing · GitHub Actions · GoReleaser**
+A zero-dependency Go CLI for fast codebase auditing, featuring buffered I/O, byte-level matching, and profiling-driven memory optimization.
+
+**Go · CLI · Performance Optimization · Testing · GoReleaser**
+
+### [Job Application Tracker](https://github.com/bhardwaj-shubham/job-application-tracker)
+
+A full-stack application for tracking job applications, documents, and resume-to-job-description analysis through a fault-tolerant asynchronous processing pipeline.
+
+**JavaScript · TypeScript · Express · React · PostgreSQL · Prisma · Redis · BullMQ · Gemini API**
 
 ## Currently Learning
 
-* Go backend development
-* System design and distributed systems
-* Linux and networking
-* Containers and infrastructure
+- Go backend and systems programming
+- System design and distributed systems
+- Linux internals and networking
+- Containers, Kubernetes, and infrastructure
 
 ## Technologies
 
@@ -35,4 +41,4 @@ Currently exploring systems, distributed systems, and infrastructure through pra
 
 **Databases & Infrastructure:** PostgreSQL · MySQL · Redis · Docker · Podman
 
-**Tools:** Git · GitHub Actions · GoReleaser · GitHub · Neovim
+**Tools:** Git · GitHub Actions · GoReleaser · Neovim
